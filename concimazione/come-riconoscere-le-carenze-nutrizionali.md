@@ -8,9 +8,19 @@ description: >-
 
 E’ fondamentale **prevenire le carenze nutrizionali nelle piante** apportando regolarmente la **giusta dose di concime** e scegliendo i **fertilizzanti più adatti** sulla base delle specifiche esigenze nutrizionali, variabili a seconda della specie, della varietà e dello _stadio fenologico_ di sviluppo \(crescita, fioritura, ecc.\).
 
+Le cause delle carenze possono essere di diverso tipo:
+
+### Parassiti
+
+A volte **una carenza è una conseguenza di una infestazioni di parassiti** e prima di adoperarsi per sostentare la pianta e riportarla ad uno stato di piena salute occorre lavorare su una possibile infestazione di parassiti.
+
 ### Scarsa efficenza dell'apparato radicale
 
 Lo **squilibrio di nutrienti nelle piante** provoca sintomi più o meno accentuati e caratteristici, a seconda dell’elemento presente in quantità insufficienti. La sintomatologia, però, non è sempre da ricondurre ad una vera e propria **carenza di elementi nutritivi:** i problemi infatti potrebbero derivare da uno scarso assorbimento dovuto, ad esempio, ad un apparato radicale poco efficiente, alla presenza di forme insolubili o alle caratteristiche del suolo, così come a molti altri fattori più o meno complessi.
+
+### Elementi nutritivi
+
+La **mancanza** di uno solo degli **elementi nutritivi** prima elencati produce tutta una serie di **sintomi di carenza** che, se prolungati nel tempo, portano all'arresto della crescita e, infine, alla **morte della pianta**. Le carenze nutritive colpiscono tutte le piante, sia quelle dell'orto che del giardino, indoor e outdoor. La diagnosi di una patologia è una questione delicata e non bisogna soffermarsi alla superficialità di un singolo sintomo. Generalemnte la carenza nutrizionale si evidenzia sulla pianta con manifestazioni a carico delle foglie \(anche nel lato inferiore\), dei fiori, dei gambi, dei frutti e del portamento generale. Tuttavia non sempre i sintomi sono subito identificabili. Per tale motivo **si consigliano sempre concimi completi di microelementi**, mentre se **la carenza è da curare si devono utilizzare prodotti specifici** \(es. Mono-componente\).
 
 ### Macronutrienti
 
