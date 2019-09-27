@@ -1,5 +1,5 @@
 ---
-description: Elemento mobile
+description: MACRO nutriente – Elemento mobile
 ---
 
 # Carenza di Azoto \(N\)
@@ -13,15 +13,15 @@ description: Elemento mobile
 
 ![La mancanza di Azoto di nota quando le foglie vecchie ingialliscono](../.gitbook/assets/cannabis-con-carenza-di-azoto.jpg)
 
-#### Mantenimento
+### Mantenimento
 
 L'azoto è un elemento molto mobile e viene consumato velocemente, quindi va aggiunto regolarmente tramite **concimi a lenta cessione**.
 
-#### Cura da carenza
+### Cura da carenza
 
 Fertilizzare con **concimi a rapido assorbimento**, come Cellmax Bio-Grow. I risultati si vedono in 4-5 giorni. Altre fonti di azoto sono il Bio Nova N 27% e il sangue di bue.
 
-#### Eccesso di elemento
+### Eccesso di elemento
 
 Le **foglie diventano verde scuro e tendono ad avere un aspetto lucido**, si racchiudono deformandosi mentre i rami hanno internodi più lunghi. Questo porta la pianta a essere più sensibile agli attacchi di insetti come afidi e ad infezioni di funghi. La pianta assorbe meno acqua. Se è grave le foglie diventano color bronzo-rame. Le radici si sviluppano più lentamente e marciscono. I fiori sono più piccoli e i frutti maturi si spaccano.
 

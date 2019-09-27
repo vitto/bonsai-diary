@@ -8,6 +8,7 @@ description: Le carenze nutrizionali spiegate in maniera abbreviata
 | :--- | :--- | :--- | :--- |
 | [Azoto](azoto.md) | Ingiallimento tra le venature | Vecchie | Lento |
 | [Potassio](potassio.md) | Le foglie perdono lucentezza e sviluppano macchie rugginose | Vecchie |  |
+|  |  |  |  |
 
 
 

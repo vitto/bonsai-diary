@@ -1,5 +1,5 @@
 ---
-description: Elemento mobile
+description: MACRO nutriente – Elemento mobile
 ---
 
 # Carenza di Magnesio \(Mg\)
@@ -13,11 +13,11 @@ Nelle piante è **resa evidente solitamente nel mezzo della pianta o nelle fogli
 
 ![](../.gitbook/assets/carenza-da-magnesio.jpg)
 
-#### **Cura da carenza**
+### **Cura da carenza**
 
 Fertilizzare con concime idrosolubile a rapido assorbimento come il [MgO 8%](https://www.idroponica.it/bionova-mgo-8-con-magnesio~25856.html). I risultati si vedono in 2-4 giorni. Altra fonte di Magnesio \(con Calcio, Ferro e altri microelementi\) è il [Cal-Mag Extra](https://www.idroponica.it/advanced-nutrients-sensi-calmag-xtra-1l~26326.html).
 
-#### Eccesso di elemento
+### Eccesso di elemento
 
 Raramente si assiste ad un eccesso di Magnesio, inoltre è difficile da diagnosticare ad occhio nudo.
 

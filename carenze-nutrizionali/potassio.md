@@ -1,5 +1,5 @@
 ---
-description: Elemento mobile
+description: MACRO nutriente – Elemento mobile
 ---
 
 # Carenza di Potassio \(K\)
@@ -13,11 +13,11 @@ description: Elemento mobile
 
 ![](../.gitbook/assets/carenza-di-potassio.jpg)
 
-#### Cura da carenza
+### Cura da carenza
 
 Fertilizzare con concime a rapido assorbimento come il [K 20%](https://www.idroponica.it/bionova-p-20-con-fosforo~25822.html). I risultati si vedono in 2-4 giorni. Altre fonti di Potassio sono il [GK Complete Mix](https://www.idroponica.it/gk-organics-complete-organics~26077.html) e il [Rhino Skin](https://www.idroponica.it/advanced-nutrients-rhino-skin~25667.html).
 
-#### Eccesso di elemento
+### Eccesso di elemento
 
 E' difficile da diagnosticare, in genere le **foglie diventano di colore giallo accesso fino a bianco**. Quando l'assorbimento di magnesio, manganese - e a volte di Zinco e Ferro - è lento o nullo, quasi sempre c'è un eccesso di potassio. L'eccesso si tratta con una leggera concimazione con gli altri microelementi.
 

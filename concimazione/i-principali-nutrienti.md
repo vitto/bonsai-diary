@@ -43,8 +43,9 @@ Gli elementi mobili possono essere spostati da un tessuto all'altro in base alle
 
 Quando invece la pianta ha carenza di elementi non mobili, la carenza ovviamente si evidenzierà sulle nuove foglie e sui germogli \(per esempio con foglie deformate e**/**o pallide\).
 
-* Boro \(B\) – micro nutriente
+* Boro \(B\) – _micro nutriente_
 * Calcio \(Ca\) – _MACRO nutriente_
+* Cobalto \(Co\) – _micro nutriente_
 * Ferro \(Fe\) – _micro nutriente_
 * Manganese \(Mn\) – _micro nutriente_
 * Rame \(Cu\) – _micro nutriente_
@@ -57,7 +58,7 @@ Di seguito una tabella riassuntiva degli elementi più importanti per le piante
 | [Azoto](../carenze-nutrizionali/azoto.md) | N | MACRO | Mobile |
 | Boro | B | micro | Non mobile |
 | Calcio | Ca | MACRO | Non mobile |
-| Cobalto | Co | micro | ? |
+| Cobalto | Co | micro | Non mobile |
 | Ferro | Fe | micro | Non mobile |
 | Fosforo | P | MACRO | Mobile |
 | [Magnesio](../carenze-nutrizionali/magnesio.md) | Mg | MACRO | Mobile |
