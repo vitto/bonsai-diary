@@ -20,6 +20,7 @@ Sono richiesti dalle piante a dosi nettamente inferiori: per questo motivo sono 
 * Boro \(B\)
 * Cobalto \(Co\)
 * Ferro \(Fe\)
+* Manganese \(Mn\)
 * Molibdeno \(Mo\)
 * Rame \(Cu\)
 * Zinco \(Zn\)
@@ -42,8 +43,30 @@ Gli elementi mobili possono essere spostati da un tessuto all'altro in base alle
 
 Quando invece la pianta ha carenza di elementi non mobili, la carenza ovviamente si evidenzierà sulle nuove foglie e sui germogli \(per esempio con foglie deformate e**/**o pallide\).
 
-* 
-_**elementi non mobili**_ sono invece:  
-calcio,zolfo,ferro,manganese,boro,rame.  
+* Boro \(B\) – micro nutriente
+* Calcio \(Ca\) – _MACRO nutriente_
+* Ferro \(Fe\) – _micro nutriente_
+* Manganese \(Mn\) – _micro nutriente_
+* Rame \(Cu\) – _micro nutriente_
+* Zolfo \(S\) – _micro nutriente_
+
+Di seguito una tabella riassuntiva degli elementi più importanti per le piante
+
+| Elemento | Tavola | Taglia | Mobilità |
+| :--- | :--- | :--- | :--- |
+| [Azoto](../carenze-nutrizionali/azoto.md) | N | MACRO | Mobile |
+| Boro | B | micro | Non mobile |
+| Calcio | Ca | MACRO | Non mobile |
+| Cobalto | Co | micro | ? |
+| Ferro | Fe | micro | Non mobile |
+| Fosforo | P | MACRO | Mobile |
+| [Magnesio](../carenze-nutrizionali/magnesio.md) | Mg | MACRO | Mobile |
+| Manganese | Mn | micro | Non mobile |
+| Molibdeno | Mo | micro | ? |
+| [Potassio](../carenze-nutrizionali/potassio.md) | K | MACRO | Mobile |
+| Rame | Cu | micro | Non mobile |
+| Zinco | Zn | micro | Mobile |
+| Zolfo | S | MACRO | Non mobile |
+
 
 
