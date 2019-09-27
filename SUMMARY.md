@@ -19,13 +19,14 @@
 * [Carenza di Potassio \(K\)](carenze-nutrizionali/potassio.md)
 * [Tabella riassuntiva](carenze-nutrizionali/tabella-riassuntiva.md)
 
-## Concimazione
+## Fertilizzanti
 
-* [I principali nutrienti](concimazione/i-principali-nutrienti.md)
-* [Concimi a lenta cessione](concimazione/concimi-a-lenta-cessione.md)
-* [Concimi a rapido assorbimento](concimazione/concimi-a-rapido-assorbimento.md)
+* [I principali nutrienti](fertilizzanti/i-principali-nutrienti.md)
+* [Fertilizzanti a lenta cessione](fertilizzanti/fertilizzanti-a-lenta-cessione.md)
+* [Fertilizzanti a rapido assorbimento](fertilizzanti/concimi-a-rapido-assorbimento.md)
 
 ## Quercia Roverella
 
 * [Untitled](quercia-roverella/untitled.md)
+* [Concimazione](quercia-roverella/concimazione.md)
 
