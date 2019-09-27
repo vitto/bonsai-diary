@@ -13,9 +13,9 @@
 * [Sintomi generali](carenze-nutrizionali/sintomi-generali.md)
 * [Carenza di CO2](carenze-nutrizionali/carenza-di-co2.md)
 * [Carenza di Azoto \(N\)](carenze-nutrizionali/azoto.md)
-* [Carenza di Potassio \(K\)](carenze-nutrizionali/potassio.md)
-* [Carenza di Magnesio \(Mg\)](carenze-nutrizionali/magnesio.md)
 * [Carenza di Fosforo \(P\)](carenze-nutrizionali/carenza-di-fosforo-p.md)
+* [Carenza di Magnesio \(Mg\)](carenze-nutrizionali/magnesio.md)
+* [Carenza di Potassio \(K\)](carenze-nutrizionali/potassio.md)
 * [Tabella riassuntiva](carenze-nutrizionali/tabella-riassuntiva.md)
 
 ## Concimazione

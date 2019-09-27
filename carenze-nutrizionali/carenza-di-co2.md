@@ -7,8 +7,7 @@ Le **piante coltivate con bassi livelli di CO2** hanno **problemi di fotosintesi
 
 ### **Cura da carenza**
 
-Nella coltivazione indoor si può optare per 2 soluzioni: potete utilizzare un [Kit di erogazione CO2](https://www.idroponica.it/kit-co2-bombola-regolatore-elettrovalvola~10270.html) o sfruttare la reazione naturale del micelio contenuto in [Homegrow Exhale](https://www.idroponica.it/co2-exhale-homegrown-anidride-carbonica~20719.html).  
-[Scopri l'importanza della CO2 nella Grow Room](https://www.idroponica.it/integrazione-anidride-carbonica-co2_28-153.html).
+Nella coltivazione indoor si può optare per 2 soluzioni: potete utilizzare un [Kit di erogazione CO2](https://www.idroponica.it/kit-co2-bombola-regolatore-elettrovalvola~10270.html) o sfruttare la reazione naturale del micelio contenuto in [Homegrow Exhale](https://www.idroponica.it/co2-exhale-homegrown-anidride-carbonica~20719.html).
 
 ### Eccesso di CO2
 

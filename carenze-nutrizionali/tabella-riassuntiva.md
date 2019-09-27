@@ -4,11 +4,12 @@ description: Le carenze nutrizionali spiegate in maniera abbreviata
 
 # Tabella riassuntiva
 
-| Elemento | Descrizione | Foglie | Concime |
+| Elemento | Foglie | Foglie | Concime |
 | :--- | :--- | :--- | :--- |
 | [Azoto](azoto.md) | Ingiallimento tra le venature | Vecchie | Lento |
-| [Potassio](potassio.md) | Le foglie perdono lucentezza e sviluppano macchie rugginose | Vecchie |  |
-|  |  |  |  |
+| [Potassio](potassio.md) | Perdono lucentezza e sviluppano macchie rugginose | Vecchie |  |
+| [Magnesio](magnesio.md) | Chiazze giallognole o violacee sulla lamina fogliare | Vecchie |  |
+| [Fosforo](carenza-di-fosforo-p.md) | Diventano bronzo-porpora, raggrinziscono e muoiono | Giovani |  |
 
 
 
