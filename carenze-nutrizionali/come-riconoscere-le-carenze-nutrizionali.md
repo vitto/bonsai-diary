@@ -6,7 +6,7 @@ description: >-
 
 # Carenze nutrizionali
 
-E’ fondamentale **prevenire le carenze nutrizionali nelle piante** apportando regolarmente la **giusta dose di concime** e scegliendo i **fertilizzanti più adatti** sulla base delle specifiche esigenze nutrizionali, variabili a seconda della specie, della varietà e dello _stadio fenologico_ di sviluppo \(crescita, fioritura, ecc.\).
+È fondamentale **prevenire le carenze nutrizionali nelle piante** apportando regolarmente la **giusta dose di concime** e scegliendo i **fertilizzanti più adatti** sulla base delle specifiche esigenze nutrizionali, variabili a seconda della specie, della varietà e dello _stadio fenologico_ di sviluppo \(crescita, fioritura, ecc.\).
 
 Le cause delle carenze possono essere di diverso tipo:
 
