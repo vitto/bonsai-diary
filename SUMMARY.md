@@ -14,9 +14,11 @@
 * [Carenza di Azoto \(N\)](carenze-nutrizionali/untitled.md)
 * [Carenza di Potassio \(K\)](carenze-nutrizionali/carenza-di-potassio-k.md)
 * [Carenza di Magnesio \(Mg\)](carenze-nutrizionali/carenza-di-magnesio-mg.md)
+* [Tabella delle carenze](carenze-nutrizionali/tabella-delle-carenze.md)
 
 ## Concimazione
 
+* [I principali nutrienti](concimazione/i-principali-nutrienti.md)
 * [Concimi a lenta cessione](concimazione/concimi-a-lenta-cessione.md)
 * [Concimi a rapido assorbimento](concimazione/concimi-a-rapido-assorbimento.md)
 

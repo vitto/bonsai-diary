@@ -11,6 +11,8 @@ Nelle piante è **resa evidente solitamente nel mezzo della pianta o nelle fogli
 * **Ripiegamento verso l’alto** dei margini fogliari
 * **Chiazze giallognole** o violacee sulla lamina fogliare
 
+![](../.gitbook/assets/carenza-da-magnesio.jpg)
+
 #### **Cura da carenza**
 
 Fertilizzare con concime idrosolubile a rapido assorbimento come il [MgO 8%](https://www.idroponica.it/bionova-mgo-8-con-magnesio~25856.html). I risultati si vedono in 2-4 giorni. Altra fonte di Magnesio \(con Calcio, Ferro e altri microelementi\) è il [Cal-Mag Extra](https://www.idroponica.it/advanced-nutrients-sensi-calmag-xtra-1l~26326.html).
