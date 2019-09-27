@@ -11,4 +11,5 @@
 
 * [Carenze nutrizionali](concimazione/come-riconoscere-le-carenze-nutrizionali.md)
 * [Sintomi generali](concimazione/sintomi-generali.md)
+* [Concimi a lenta cessione](concimazione/concimi-a-lenta-cessione.md)
 
