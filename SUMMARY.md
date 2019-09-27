@@ -11,7 +11,9 @@
 
 * [Carenze nutrizionali](carenze-nutrizionali/come-riconoscere-le-carenze-nutrizionali.md)
 * [Sintomi generali](carenze-nutrizionali/sintomi-generali.md)
-* [Untitled](carenze-nutrizionali/untitled.md)
+* [Carenza di Azoto \(N\)](carenze-nutrizionali/untitled.md)
+* [Carenza di Potassio \(K\)](carenze-nutrizionali/carenza-di-potassio-k.md)
+* [Carenza di Magnesio \(Mg\)](carenze-nutrizionali/carenza-di-magnesio-mg.md)
 
 ## Concimazione
 
