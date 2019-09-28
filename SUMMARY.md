@@ -27,6 +27,7 @@
 
 ## Quercia Roverella
 
-* [Untitled](quercia-roverella/untitled.md)
+* [Roverella](quercia-roverella/untitled.md)
 * [Concimazione](quercia-roverella/concimazione.md)
+* [Esposizione](quercia-roverella/esposizione.md)
 
