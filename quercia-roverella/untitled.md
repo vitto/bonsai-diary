@@ -1,3 +1,7 @@
+---
+description: Quercia Roverella
+---
+
 # Roverella
 
 La Quercia, fin dall’antichità, è citata come **simbolo di forza, di maestosità e di lunga vita.**  
