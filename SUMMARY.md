@@ -5,7 +5,7 @@
 
 ## Quercia Roverella
 
-* [Roverella](quercia-roverella/untitled.md)
+* [Introduzione](quercia-roverella/untitled.md)
 * [Annaffiatura](quercia-roverella/annaffiatura.md)
 * [Esposizione alla luce](quercia-roverella/esposizione.md)
 * [Concimazione](quercia-roverella/concimazione.md)
@@ -15,6 +15,11 @@
 * [Defogliazione](quercia-roverella/defogliazione.md)
 * [Rinvaso](quercia-roverella/rinvaso.md)
 * [Applicazione filo](quercia-roverella/applicazione-filo.md)
+
+## Acero Palmato
+
+* [Introduzione](acero-palmato/introduzione.md)
+* [Annaffiatura](acero-palmato/annaffiatura.md)
 
 ## Maestri
 

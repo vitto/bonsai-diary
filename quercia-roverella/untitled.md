@@ -2,7 +2,7 @@
 description: Quercia Roverella
 ---
 
-# Roverella
+# Introduzione
 
 La Quercia, fin dall’antichità, è citata come **simbolo di forza, di maestosità e di lunga vita.**  
 In effetti, il bonsai di Quercia irradia una senzazione di potenza e vigoria, che poche altre piante riescono a trasmettere. Il tronco è robusto e squamato, i rami sono potenti e affusolati, mentre le foglie, alterne e dentate, possono resistere anche due anni prima di cadere; infine, la produzione delle ghiande evoca nell’osservatore dolci ricordi giovanili. Le specie di questa famiglia sono moltissime \(Farnia, Rovere, Cerro, Leccio, Sughera, ecc.\) ma in questo caso si parlerà della  **Roverella**.
