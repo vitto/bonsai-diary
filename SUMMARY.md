@@ -25,6 +25,7 @@
 * [Difesa dai parassiti](acero-palmato/difesa-dai-parassiti.md)
 * [Potatura](acero-palmato/potatura.md)
 * [Defogliazione](acero-palmato/defogliazione.md)
+* [Rinvaso](acero-palmato/rinvaso.md)
 
 ## Maestri
 
