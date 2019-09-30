@@ -7,7 +7,7 @@
 
 * [Introduzione](quercia-roverella/untitled.md)
 * [Annaffiatura](quercia-roverella/annaffiatura.md)
-* [Esposizione alla luce](quercia-roverella/esposizione.md)
+* [Esposizione](quercia-roverella/esposizione.md)
 * [Concimazione](quercia-roverella/concimazione.md)
 * [Difesa dai parassiti](quercia-roverella/difesa-dai-parassiti.md)
 * [Potatura](quercia-roverella/potatura.md)
@@ -20,6 +20,9 @@
 
 * [Introduzione](acero-palmato/introduzione.md)
 * [Annaffiatura](acero-palmato/annaffiatura.md)
+* [Esposizione](acero-palmato/esposizione.md)
+* [Concimazione](acero-palmato/concimazione.md)
+* [Difesa dai parassiti](acero-palmato/difesa-dai-parassiti.md)
 
 ## Maestri
 

@@ -2,9 +2,9 @@
 description: Quercia Roverella
 ---
 
-# Esposizione alla luce
+# Esposizione
 
-Di seguito una tabella riassuntiva delle tecniche consigliate per la Quercia Roverella
+Di seguito una tabella riassuntiva delle esposizioni consigliate
 
 | 📆 Stagione | 💡 Luce | ⚱ Vaso |
 | :--- | :--- | :--- |
