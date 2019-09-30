@@ -23,6 +23,8 @@
 * [Esposizione](acero-palmato/esposizione.md)
 * [Concimazione](acero-palmato/concimazione.md)
 * [Difesa dai parassiti](acero-palmato/difesa-dai-parassiti.md)
+* [Potatura](acero-palmato/potatura.md)
+* [Defogliazione](acero-palmato/defogliazione.md)
 
 ## Maestri
 
