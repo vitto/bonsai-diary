@@ -1,3 +1,7 @@
+---
+description: MACRO nutriente – Elemento mobile
+---
+
 # Carenza di Calcio \(Ca\)
 
 La carenza di Calcio in una pianta può influenzare il **suolo** facendolo diventare **troppo acido**. È molto abbondante in natura e si trova in forma di calcare \(CaCO3\), le sue eventuali carenze si possono riscontrare dunque in suoli acidi. Sulle foglie si possono osservare **deformazioni** e **clorosi internervali**, oltre che disseccamenti degli apici vegetativi e dei margini fogliari.

@@ -26,6 +26,7 @@
 * [Potatura](acero-palmato/potatura.md)
 * [Defogliazione](acero-palmato/defogliazione.md)
 * [Rinvaso](acero-palmato/rinvaso.md)
+* [Applicazione filo](acero-palmato/applicazione-filo.md)
 
 ## Maestri
 
