@@ -24,9 +24,23 @@
 * [Concimazione](acero-palmato/concimazione.md)
 * [Difesa dai parassiti](acero-palmato/difesa-dai-parassiti.md)
 * [Potatura](acero-palmato/potatura.md)
+* [Pinzatura](acero-palmato/pinzatura.md)
 * [Defogliazione](acero-palmato/defogliazione.md)
 * [Rinvaso](acero-palmato/rinvaso.md)
 * [Applicazione filo](acero-palmato/applicazione-filo.md)
+
+## Ficus
+
+* [Introduzione](ficus/introduzione.md)
+* [Annaffiatura](ficus/annaffiatura.md)
+* [Esposizione](ficus/esposizione.md)
+* [Concimazione](ficus/concimazione.md)
+* [Difesa dai parassiti](ficus/difesa-dai-parassiti.md)
+* [Potatura](ficus/potatura.md)
+* [Pinzatura](ficus/pinzatura.md)
+* [Defogliazione](ficus/defogliazione.md)
+* [Rinvaso](ficus/rinvaso.md)
+* [Applicazione filo](ficus/applicazione-filo.md)
 
 ## Maestri
 

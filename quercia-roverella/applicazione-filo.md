@@ -4,8 +4,6 @@ description: Quercia Roverella
 
 # Applicazione filo
 
-
-
 | Gen | Feb | Mar | Apr | Mag | Giu | Lug | Ago | Set | Ott | Nov | Dic |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |  ✔️ |  ✔️ |  ✔️ | – | – |  ✔️ |  ✔️ |  ✔️ |  ✔️ |  ✔️ |  ✔️ |  ✔️ |
