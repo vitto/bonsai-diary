@@ -42,6 +42,10 @@
 * [Rinvaso](ficus/rinvaso.md)
 * [Applicazione filo](ficus/applicazione-filo.md)
 
+## Ginepro
+
+* [Introduzione](ginepro/introduzione.md)
+
 ## Maestri
 
 * [Luigi Crespi](maestri/luigi-crespi.md)
