@@ -49,6 +49,7 @@
 ## Maestri
 
 * [Luigi Crespi](maestri/luigi-crespi.md)
+* [Sandro Segneri](maestri/sandro-segneri.md)
 
 ## Carenze nutrizionali
 
